@@ -4,7 +4,11 @@ A modern, responsive weather application built with React Native and Expo that p
 
 ## Demo
 
-[![Weather App Demo Video](https://res.cloudinary.com/dtvc2pr8i/image/upload/v1745502511/samples/Screenshot_20250424_141500_qyhhgy.png)](https://res.cloudinary.com/dtvc2pr8i/video/upload/v1745502445/samples/Screen_recording_20250424_141345_zl01pl.mp4)
+<p align="center">
+  <a href="https://res.cloudinary.com/dtvc2pr8i/video/upload/v1745502445/samples/Screen_recording_20250424_141345_zl01pl.mp4">
+    <img src="https://res.cloudinary.com/dtvc2pr8i/image/upload/v1745502511/samples/Screenshot_20250424_141500_qyhhgy.png" alt="Weather App Demo Video" width="320">
+  </a>
+</p>
 
 *Click the image above to watch the demo video*
 
